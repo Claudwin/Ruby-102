@@ -1,4 +1,5 @@
 class ApiConnector 
+  #attributes "varibale for this class"
   attr_acceessor :title, :description, :url
 
   def test_method
